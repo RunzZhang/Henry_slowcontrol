@@ -1,0 +1,17 @@
+[
+  [
+    {"idx": 0, "id": "CONF_MEAS1", "value": "0x1120"},
+    {"idx": 1, "id": "CONF_MEAS2", "value": "0x4000"},
+    {"idx": 2, "id": "CONF_MEAS3", "value": "0x53e0"},
+    {"idx": 3, "id": "CONF_MEAS4", "value": "0x7c00"},
+    {"idx": 4, "id": "FDC_CONF", "value": "0x0dff"},
+    {"idx": 5, "id": "OFFSET_CAL_CIN1", "value": "0x0000"},
+    {"idx": 6, "id": "OFFSET_CAL_CIN2", "value": "0x0000"},
+    {"idx": 7, "id": "OFFSET_CAL_CIN3", "value": "0x0000"},
+    {"idx": 8, "id": "OFFSET_CAL_CIN4", "value": "0x0000"},
+    {"idx": 9, "id": "GAIN_CAL_CIN1", "value": "0x4000"},
+    {"idx": 10, "id": "GAIN_CAL_CIN2", "value": "0x4000"},
+    {"idx": 11, "id": "GAIN_CAL_CIN3", "value": "0x4000"},
+    {"idx": 12, "id": "GAIN_CAL_CIN4", "value": "0x4000"}
+  ]
+]
