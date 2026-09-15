@@ -1,4 +1,5 @@
-The active source files are located in the slowcontrol_reconstruct directory.
+# Henry_slowcontrol for HydroX projects
+The active source files are located in the UCSB_reconstruct directory.
 
 The system runs on two main programs: Henry_background.py and Henry_GUI.py.
 The instruments and communication protocols of Henry are different from SBC. 
